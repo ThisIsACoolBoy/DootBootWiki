@@ -3,12 +3,12 @@
 
 Created by *doot#9215*
 
-#ITTK (Important Things To Know)
+# ITTK (Important Things To Know)
 Prefix is: d!
 
 For instance; d!help :)
 
-#Commands
+# Commands
 d!help ~~ Shows a link to this page...
 
 d!isredsus ~~ yes it is
